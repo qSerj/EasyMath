@@ -1,0 +1,182 @@
+[
+  {
+    "number": 1,
+    "group": "Переносы и положение x",
+    "equation": "x + 3 = 8",
+    "answer": 5
+  },
+  {
+    "number": 2,
+    "group": "Переносы и положение x",
+    "equation": "x − 4 = 3",
+    "answer": 7
+  },
+  {
+    "number": 3,
+    "group": "Переносы и положение x",
+    "equation": "9 = x + 3",
+    "answer": 6
+  },
+  {
+    "number": 4,
+    "group": "Переносы и положение x",
+    "equation": "2 = x − 6",
+    "answer": 8
+  },
+  {
+    "number": 5,
+    "group": "Переносы и положение x",
+    "equation": "x + 2 + 3 = 9",
+    "answer": 4
+  },
+  {
+    "number": 6,
+    "group": "Плюс перед скобками",
+    "equation": "x + (4 + 2) = 9",
+    "answer": 3
+  },
+  {
+    "number": 7,
+    "group": "Плюс перед скобками",
+    "equation": "x + (7 − 3) = 10",
+    "answer": 6
+  },
+  {
+    "number": 8,
+    "group": "Плюс перед скобками",
+    "equation": "3 + (x + 2) = 10",
+    "answer": 5
+  },
+  {
+    "number": 9,
+    "group": "Плюс перед скобками",
+    "equation": "4 + (x − 3) = 9",
+    "answer": 8
+  },
+  {
+    "number": 10,
+    "group": "Плюс перед скобками",
+    "equation": "12 = 2 + (x + 1)",
+    "answer": 9
+  },
+  {
+    "number": 11,
+    "group": "Минус перед скобками",
+    "equation": "x − (3 + 2) = 4",
+    "answer": 9
+  },
+  {
+    "number": 12,
+    "group": "Минус перед скобками",
+    "equation": "x − (7 − 2) = 3",
+    "answer": 8
+  },
+  {
+    "number": 13,
+    "group": "Минус перед скобками",
+    "equation": "x + 9 − (4 + 1) = 10",
+    "answer": 6
+  },
+  {
+    "number": 14,
+    "group": "Минус перед скобками",
+    "equation": "x + 3 − (6 − 2) = 4",
+    "answer": 5
+  },
+  {
+    "number": 15,
+    "group": "Минус перед скобками",
+    "equation": "6 = x − (5 − 3)",
+    "answer": 8
+  },
+  {
+    "number": 16,
+    "group": "Пары в одной части",
+    "equation": "x + 18 + 3 − 18 = 7",
+    "answer": 4
+  },
+  {
+    "number": 17,
+    "group": "Пары в одной части",
+    "equation": "23 + x − 7 − 23 = 2",
+    "answer": 9
+  },
+  {
+    "number": 18,
+    "group": "Пары в одной части",
+    "equation": "x − 12 + 4 + 12 = 10",
+    "answer": 6
+  },
+  {
+    "number": 19,
+    "group": "Пары в одной части",
+    "equation": "x + 25 − 3 − 25 + 2 = 6",
+    "answer": 7
+  },
+  {
+    "number": 20,
+    "group": "Пары в одной части",
+    "equation": "14 + x + 6 + 4 − 14 − 10 = 5",
+    "answer": 5
+  },
+  {
+    "number": 21,
+    "group": "Одинаковые числа в обеих частях",
+    "equation": "x + 12 = 3 + 12",
+    "answer": 3
+  },
+  {
+    "number": 22,
+    "group": "Одинаковые числа в обеих частях",
+    "equation": "x − 7 = 10 − 7",
+    "answer": 10
+  },
+  {
+    "number": 23,
+    "group": "Одинаковые числа в обеих частях",
+    "equation": "15 + x = 15 + 6",
+    "answer": 6
+  },
+  {
+    "number": 24,
+    "group": "Одинаковые числа в обеих частях",
+    "equation": "x + 8 + 2 = 5 + 8",
+    "answer": 3
+  },
+  {
+    "number": 25,
+    "group": "Одинаковые числа в обеих частях",
+    "equation": "x − (6 − 2) + 9 = 7 + 9",
+    "answer": 11
+  },
+  {
+    "number": 26,
+    "group": "Смешанные приёмы",
+    "equation": "x + 8 − (3 − 2) = 11",
+    "answer": 4
+  },
+  {
+    "number": 27,
+    "group": "Смешанные приёмы",
+    "equation": "16 − (x + 3) = 7",
+    "answer": 6
+  },
+  {
+    "number": 28,
+    "group": "Смешанные приёмы",
+    "equation": "12 − (x − 2) = 5",
+    "answer": 9
+  },
+  {
+    "number": 29,
+    "group": "Смешанные приёмы",
+    "equation": "18 = 20 − (x + 1)",
+    "answer": 1
+  },
+  {
+    "number": 30,
+    "group": "Смешанные приёмы",
+    "equation": "x + 13 − (5 − 3) + 2 + 6 − 13 − 8 = 5",
+    "answer": 7
+  }
+]

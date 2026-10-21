@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 1000 1414" version="1.1" id="svg33" sodipodi:docname="01-intro-working.svg" inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)">
+  <sodipodi:namedview id="namedview33" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="2" inkscape:cx="348.75" inkscape:cy="-86.25" inkscape:window-width="1920" inkscape:window-height="1008" inkscape:window-x="1920" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="header"/>
+  <title id="title1">От обычного примера к уравнению — первая страница памятки</title>
+  <desc id="desc1">Рабочий макет в редактируемом SVG. Все математические выражения, пояснения, линии, стрелки и рамки — отдельные объекты Inkscape.</desc>
+  <g id="paper" inkscape:groupmode="layer" inkscape:label="00 · Фон листа">
+    <rect x="0" y="0" width="1000" height="1414" fill="#FFFFFF" stroke="none" rx="0" id="rect1"/>
+  </g>
+  <g id="header" inkscape:groupmode="layer" inkscape:label="01 · Заголовок и вступление">
+    <text x="131.11299" y="101.11497" font-size="34px" font-family="'DejaVu Sans', sans-serif" font-weight="700" fill="#1d2f40" id="text2">От обычного примера — к уравнению</text>
+    <text x="57" y="143" font-size="19" font-family="DejaVu Sans, sans-serif" font-weight="400" fill="#596E7E" id="text3">Покажем ребёнку, почему привычная запись вычислений здесь уже не подходит.</text>
+    <line x1="55" y1="169" x2="946" y2="169" stroke="#C7D7E1" stroke-width="2" id="line3"/>
+  </g>
+  <g id="arith" inkscape:groupmode="layer" inkscape:label="02 · Обычные примеры">
+    <text x="221.55997" y="205.11494" font-size="26px" font-family="'DejaVu Sans', sans-serif" font-weight="700" fill="#1d2f40" id="text5">Как решают вычислительные примеры</text>
+    <text x="57" y="245" font-size="20" font-family="DejaVu Sans, sans-serif" font-weight="400" fill="#2E4150" id="text6">В обычном примере дано выражение — нужно вычислить его значение. Справа</text>
+    <text x="57" y="274" font-size="20" font-family="DejaVu Sans, sans-serif" font-weight="400" fill="#2E4150" id="text7">приписывают знак «=» и записывают результат очередного шага.</text>
+    <rect x="55" y="303" width="890" height="179" fill="#F5F8FA" stroke="#C7D7E1" rx="11" stroke-width="1.5" id="rect7"/>
+    <text x="143.54" y="375" font-size="28" font-family="DejaVu Sans, sans-serif" font-weight="400" fill="#1D2F40" id="arith_expression_1">12 + 5 + 4 − 3 × 2</text>
+    <text x="428.54" y="375" font-size="30" font-family="DejaVu Sans, sans-serif" font-weight="700" fill="#177AB0" id="arith_equal_1">=</text>
+    <text x="466.68" y="375" font-size="28" font-family="DejaVu Sans, sans-serif" font-weight="400" fill="#1D2F40" id="arith_expression_2">17 + 4 − 6</text>
+    <text x="633.49" y="375" font-size="30" font-family="DejaVu Sans, sans-serif" font-weight="700" fill="#177AB0" id="arith_equal_2">=</text>
+    <text x="671.63" y="375" font-size="28" font-family="DejaVu Sans, sans-serif" font-weight="400" fill="#1D2F40" id="arith_expression_3">21 − 6</text>
+    <text x="779.35" y="375" font-size="30" font-family="DejaVu Sans, sans-serif" font-weight="700" fill="#177AB0" id="arith_equal_3">=</text>
+    <text x="817.49" y="375" font-size="28" font-family="DejaVu Sans, sans-serif" font-weight="700" fill="#1D2F40" id="arith_expression_4">15</text>
+    <text y="348" font-size="16px" x="441" font-family="'DejaVu Sans', sans-serif" font-weight="700" fill="#177ab0" text-anchor="middle" id="eq_order_1">1</text>
+    <text y="348" font-size="16px" x="646" font-family="'DejaVu Sans', sans-serif" font-weight="700" fill="#177ab0" text-anchor="middle" id="eq_order_2">2</text>
+    <text y="348" font-size="16px" x="792" font-family="'DejaVu Sans', sans-serif" font-weight="700" fill="#177ab0" text-anchor="middle" id="eq_order_3">3</text>
+    <line x1="113" y1="412" x2="858" y2="412" stroke="#177AB0" stroke-width="1.6" marker-end="url(#arrow-blue)" id="line9"/>
+    <text x="477.36072" y="451.83896" font-size="14.9454px" font-family="'DejaVu Sans', sans-serif" font-weight="400" fill="#596e7e" text-anchor="middle" id="text9" transform="scale(1.0426124,0.95912922)" style="stroke-width:0.8303">запись растёт слева направо</text>
+    <text x="170.92865" y="464" font-size="17px" font-family="'DejaVu Sans', sans-serif" font-weight="400" fill="#2e4150" id="text10">Пока справа выражение — считаем дальше. Справа число — закончили.</text>
+    <text x="348.17645" y="521.88501" font-size="18px" font-family="'DejaVu Sans', sans-serif" font-weight="700" fill="#596e7e" id="text11">Ещё два примера:</text>
+    <text x="190.64026" y="556.45984" font-size="19px" font-family="'DejaVu Sans', sans-serif" font-weight="400" fill="#2e4150" id="text12">8 + 5 − 3 = 13 − 3 = 10</text>
+    <text x="465.43805" y="560" font-size="19px" font-family="'DejaVu Sans', sans-serif" font-weight="400" fill="#2e4150" id="text13">14 − 2 + 4 = 12 + 4 = 16</text>
+    <text x="234.89201" y="595.65509" font-size="17px" font-family="'DejaVu Sans', sans-serif" font-weight="400" fill="#596e7e" id="text14">Заодно ребёнок тренируется упрощать выражения.</text>
+  </g>
+  <g id="structure" inkscape:groupmode="layer" inkscape:label="03 · Устройство уравнения">
+    <text x="264.9267" y="646.88501" font-size="26px" font-family="'DejaVu Sans', sans-serif" font-weight="700" fill="#1d2f40" id="text16">Уравнение устроено иначе</text>
+    <text x="125.14768" y="684.22992" font-size="20px" font-family="'DejaVu Sans', sans-serif" font-weight="400" fill="#2e4150" id="text17">В уравнении знак равенства уже есть с самого начала. Он разделяет</text>
+    <text x="279.14374" y="713.11499" font-size="20px" font-family="'DejaVu Sans', sans-serif" font-weight="400" fill="#2e4150" id="text18">уравнение на левую и правую части.</text>
+    <rect x="55" y="735" width="890" height="196" fill="#FFFFFF" stroke="#C7D7E1" rx="11" stroke-width="1.5" id="rect18"/>
+    <rect x="80" y="757" width="345" height="116" fill="#EFF7FC" stroke="#177AB0" rx="9" stroke-width="1.8" stroke-dasharray="7 5" id="rect19"/>
+    <rect x="575" y="757" width="345" height="116" fill="#FCF6EA" stroke="#AD6E13" rx="9" stroke-width="1.8" stroke-dasharray="7 5" id="rect20"/>
+    <text x="252.5" y="787" font-size="17" font-family="DejaVu Sans, sans-serif" font-weight="700" fill="#177AB0" letter-spacing="0.6" text-anchor="middle" id="text20">ЛЕВАЯ ЧАСТЬ</text>
+    <text x="747.5" y="787" font-size="17" font-family="DejaVu Sans, sans-serif" font-weight="700" fill="#AD6E13" letter-spacing="0.6" text-anchor="middle" id="text21">ПРАВАЯ ЧАСТЬ</text>
+    <text x="252.5" y="844" font-size="36" font-family="DejaVu Sans, sans-serif" font-weight="700" fill="#1D2F40" text-anchor="middle" id="text22">x + 2 + 3</text>
+    <text x="747.5" y="844" font-size="36" font-family="DejaVu Sans, sans-serif" font-weight="700" fill="#1D2F40" text-anchor="middle" id="text23">10</text>
+    <text x="500" y="840" font-size="42" font-family="DejaVu Sans, sans-serif" font-weight="700" fill="#177AB0" text-anchor="middle" id="text24">=</text>
+    <line x1="500" y1="854" x2="500" y2="892" stroke="#8A99A7" stroke-width="1.8" stroke-dasharray="4 4" id="line24"/>
+    <text x="500" y="913" font-size="17" font-family="DejaVu Sans, sans-serif" font-weight="400" fill="#596E7E" text-anchor="middle" id="text25">Знак равенства — граница между частями</text>
+    <text font-size="20px" text-anchor="middle" y="958" x="500" font-family="'DejaVu Sans', sans-serif" font-weight="400" fill="#2e4150" id="text26">Решить уравнение — значит выяснить, какое число спрятано за x.</text>
+    <text x="500" y="985" text-anchor="middle" font-size="20px" font-family="DejaVu Sans, sans-serif" font-weight="400" fill="#2e4150" id="root-definition">Это число называется <tspan font-weight="700">корнем уравнения</tspan>.</text>
+  </g>
+  <g id="solution" inkscape:groupmode="layer" inkscape:label="04 · Как записывают решение уравнения">
+    <text y="1027" x="232.1804" font-size="26px" font-family="'DejaVu Sans', sans-serif" font-weight="700" fill="#1d2f40" id="text28">Как записывают решение уравнения</text>
+    <text id="text29" font-family="DejaVu Sans, sans-serif" font-size="19px" font-weight="400" fill="#2e4150" style="shape-inside:url(#solution-paragraph-area);white-space:pre-wrap;line-height:1.3;text-align:justify">Каждый следующий шаг — новая строка. Делают преобразования в левой и/или в правой части. Записывают то, что получилось: левую часть, знак равенства, правую часть. И так до тех пор, пока не получится x = число.</text>
+    <rect height="197" y="1152" x="55" width="890" fill="#F5F8FA" stroke="#C7D7E1" rx="11" stroke-width="1.5" id="rect30"/>
+    <text y="1185" font-size="16px" x="280" font-family="'DejaVu Sans', sans-serif" font-weight="700" fill="#177ab0" text-anchor="middle" id="eq_order_1-6">1</text>
+    <text y="1229" font-size="16px" x="280" font-family="'DejaVu Sans', sans-serif" font-weight="700" fill="#177ab0" text-anchor="middle" id="eq_order_1-5">2</text>
+    <text y="1273" font-size="16px" x="280" font-family="'DejaVu Sans', sans-serif" font-weight="700" fill="#177ab0" text-anchor="middle" id="eq_order_1-56">3</text>
+    <text y="1317" font-size="16px" x="280" font-family="'DejaVu Sans', sans-serif" font-weight="700" fill="#177ab0" text-anchor="middle" id="eq_order_1-9">4</text>
+    <text y="1196" x="168" font-size="17" font-family="DejaVu Sans, sans-serif" font-weight="400" fill="#596E7E" text-anchor="middle" id="text31">строка</text>
+    <text y="1221" x="168" font-size="17" font-family="DejaVu Sans, sans-serif" font-weight="400" fill="#596E7E" text-anchor="middle" id="text32">за строкой</text>
+    <line y2="1310" y1="1240" x1="168" x2="168" stroke="#177AB0" stroke-width="2" marker-end="url(#arrow-blue)" id="line32"/>
+    <text y="1188" x="480" font-size="29" font-family="DejaVu Sans, sans-serif" font-weight="400" fill="#1D2F40" text-anchor="end" id="step_left_1">x + 2 + 3</text>
+    <text y="1188" x="509" font-size="30" font-family="DejaVu Sans, sans-serif" font-weight="700" fill="#177AB0" text-anchor="middle" id="step_equal_1">=</text>
+    <text y="1188" x="543" font-size="29" font-family="DejaVu Sans, sans-serif" font-weight="400" fill="#1D2F40" id="step_right_1">10</text>
+    <text y="1232" x="480" font-size="29" font-family="DejaVu Sans, sans-serif" font-weight="400" fill="#1D2F40" text-anchor="end" id="step_left_2">x + 5</text>
+    <text y="1232" x="509" font-size="30" font-family="DejaVu Sans, sans-serif" font-weight="700" fill="#177AB0" text-anchor="middle" id="step_equal_2">=</text>
+    <text y="1232" x="543" font-size="29" font-family="DejaVu Sans, sans-serif" font-weight="400" fill="#1D2F40" id="step_right_2">10</text>
+    <text y="1276" x="480" font-size="29" font-family="DejaVu Sans, sans-serif" font-weight="400" fill="#1D2F40" text-anchor="end" id="step_left_3">x</text>
+    <text y="1276" x="509" font-size="30" font-family="DejaVu Sans, sans-serif" font-weight="700" fill="#177AB0" text-anchor="middle" id="step_equal_3">=</text>
+    <text y="1276" x="543" font-size="29" font-family="DejaVu Sans, sans-serif" font-weight="400" fill="#1D2F40" id="step_right_3">10 − 5</text>
+    <rect y="1287" x="388" width="335" height="49" fill="#EDF8F4" stroke="none" rx="8" id="rect32"/>
+    <text y="1320" x="480" font-size="29" font-family="DejaVu Sans, sans-serif" font-weight="700" fill="#1D2F40" text-anchor="end" id="step_left_4">x</text>
+    <text y="1320" x="509" font-size="30" font-family="DejaVu Sans, sans-serif" font-weight="700" fill="#177AB0" text-anchor="middle" id="step_equal_4">=</text>
+    <text y="1320" x="543" font-size="29" font-family="DejaVu Sans, sans-serif" font-weight="700" fill="#1D2F40" id="step_right_4">5</text>
+  </g>
+  <defs id="defs33">
+    <rect id="solution-paragraph-area" x="55" y="1039" width="890" height="95"/>
+    <marker id="arrow-blue" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#177AB0" id="path33"/>
+    </marker>
+  </defs>
+</svg>

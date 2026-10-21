@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="210mm" height="297mm" viewBox="0 0 1000 1414" version="1.1">
+  <title>Уравнения — шпаргалка после разбора</title>
+  <desc>Один лист А4. Правила и короткие примеры. Текст, цветовые выделения, рамки и стрелки остаются редактируемыми.</desc>
+  <defs>
+    <marker id="arrow-blue" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 0,0 L 8,4 L 0,8 Z" fill="#177AB0" />
+    </marker>
+  </defs>
+  <g id="paper">
+    <rect x="0" y="0" width="1000" height="1414" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1.5" />
+  </g>
+  <g id="heading">
+    <text x="500" y="54" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="700" fill="#177AB0" text-anchor="middle" xml:space="preserve">УРАВНЕНИЯ / ШПАРГАЛКА</text>
+    <text x="500" y="99" font-family="DejaVu Sans, sans-serif" font-size="34" font-weight="700" fill="#1D2F40" text-anchor="middle" xml:space="preserve">Правила перед глазами</text>
+    <line x1="55" y1="128" x2="945" y2="128" stroke="#C7D7E1" stroke-width="2" />
+  </g>
+  <g id="reorder" inkscape:groupmode="layer" inkscape:label="1. Внутри одной части уравнения">
+    <rect x="55" y="150" width="890" height="208" rx="11" fill="#F5F8FA" stroke="#C7D7E1" stroke-width="1.5" />
+    <text x="80" y="185" font-family="DejaVu Sans, sans-serif" font-size="26" font-weight="700" fill="#1D2F40" xml:space="preserve">1. Внутри одной части уравнения</text>
+    <text x="80" y="218" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#1D2F40" xml:space="preserve">Переставляем числа вместе с их знаками.</text>
+    <text x="220" y="258" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">x </text>
+    <rect x="240.1953125" y="240" width="37.484375" height="29" rx="4" fill="#EFF7FC" stroke="#177AB0" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="244.1953125" y="258" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#177AB0" xml:space="preserve">−3</text>
+    <text x="279.6796875" y="258" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve"> + 5</text>
+    <line x1="450" y1="250" x2="520" y2="250" stroke="#177AB0" stroke-width="1.6" marker-end="url(#arrow-blue)" />
+    <text x="570" y="258" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">x + 5 </text>
+    <rect x="632.3984375" y="240" width="37.484375" height="29" rx="4" fill="#EFF7FC" stroke="#177AB0" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="636.3984375" y="258" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#177AB0" xml:space="preserve">−3</text>
+    <text x="220" y="298" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">x − 3 </text>
+    <rect x="282.3984375" y="280" width="37.484375" height="29" rx="4" fill="#EFF7FC" stroke="#177AB0" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="286.3984375" y="298" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#177AB0" xml:space="preserve">+5</text>
+    <line x1="450" y1="290" x2="520" y2="290" stroke="#177AB0" stroke-width="1.6" marker-end="url(#arrow-blue)" />
+    <rect x="572" y="280" width="20.7265625" height="29" rx="4" fill="#EFF7FC" stroke="#177AB0" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="576" y="298" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#177AB0" xml:space="preserve">5</text>
+    <text x="594.7265625" y="298" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve"> + x − 3</text>
+    <text x="220" y="338" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">x </text>
+    <rect x="240.1953125" y="320" width="37.484375" height="29" rx="4" fill="#EFF7FC" stroke="#177AB0" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="244.1953125" y="338" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#177AB0" xml:space="preserve">−3</text>
+    <text x="279.6796875" y="338" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve"> + 5</text>
+    <line x1="450" y1="330" x2="520" y2="330" stroke="#177AB0" stroke-width="1.6" marker-end="url(#arrow-blue)" />
+    <rect x="572" y="320" width="37.484375" height="29" rx="4" fill="#EFF7FC" stroke="#177AB0" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="576" y="338" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#177AB0" xml:space="preserve">−3</text>
+    <text x="611.484375" y="338" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve"> + x + 5</text>
+  </g>
+  <g id="both-sides" inkscape:groupmode="layer" inkscape:label="2. Одинаковое действие с обеими частями">
+    <rect x="55" y="372" width="890" height="190" rx="11" fill="#F5F8FA" stroke="#C7D7E1" stroke-width="1.5" />
+    <text x="80" y="407" font-family="DejaVu Sans, sans-serif" font-size="26" font-weight="700" fill="#1D2F40" xml:space="preserve">2. Одинаковое действие с обеими частями</text>
+    <text x="80" y="439" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#1D2F40" xml:space="preserve">К обеим частям можно прибавить одно и то же число.</text>
+    <text x="80" y="467" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#1D2F40" xml:space="preserve">Из обеих частей можно вычесть одно и то же число.</text>
+    <line x1="500" y1="486" x2="500" y2="549" stroke="#C7D7E1" stroke-width="1" />
+    <text x="221.9609375" y="505" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">x − 2</text>
+    <text x="300" y="505" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#177AB0" text-anchor="middle" xml:space="preserve">=</text>
+    <text x="324" y="505" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">6</text>
+    <text x="174.1171875" y="546" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">x − 2 </text>
+    <rect x="236.515625" y="528" width="37.484375" height="29" rx="4" fill="#EFF7FC" stroke="#177AB0" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="240.515625" y="546" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#177AB0" xml:space="preserve">+2</text>
+    <text x="300" y="546" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#177AB0" text-anchor="middle" xml:space="preserve">=</text>
+    <text x="324" y="546" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">6 </text>
+    <rect x="345.0859375" y="528" width="37.484375" height="29" rx="4" fill="#EFF7FC" stroke="#177AB0" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="349.0859375" y="546" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#177AB0" xml:space="preserve">+2</text>
+    <text x="671.9609375" y="505" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">x + 3</text>
+    <text x="750" y="505" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#177AB0" text-anchor="middle" xml:space="preserve">=</text>
+    <text x="774" y="505" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">8</text>
+    <text x="624.1171875" y="546" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">x + 3 </text>
+    <rect x="686.515625" y="528" width="37.484375" height="29" rx="4" fill="#EFF7FC" stroke="#177AB0" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="690.515625" y="546" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#177AB0" xml:space="preserve">−3</text>
+    <text x="750" y="546" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#177AB0" text-anchor="middle" xml:space="preserve">=</text>
+    <text x="774" y="546" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">8 </text>
+    <rect x="795.0859375" y="528" width="37.484375" height="29" rx="4" fill="#EFF7FC" stroke="#177AB0" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="799.0859375" y="546" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#177AB0" xml:space="preserve">−3</text>
+  </g>
+  <g id="transfer" inkscape:groupmode="layer" inkscape:label="3. Перенос через знак равенства">
+    <rect x="55" y="576" width="890" height="190" rx="11" fill="#F5F8FA" stroke="#C7D7E1" stroke-width="1.5" />
+    <text x="80" y="611" font-family="DejaVu Sans, sans-serif" font-size="26" font-weight="700" fill="#1D2F40" xml:space="preserve">3. Перенос через знак равенства</text>
+    <text x="80" y="643" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#1D2F40" xml:space="preserve">Переносим число в другую часть — меняем его знак.</text>
+    <text x="236.3203125" y="692" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">x </text>
+    <rect x="256.515625" y="674" width="37.484375" height="29" rx="4" fill="#EFF7FC" stroke="#177AB0" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="260.515625" y="692" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#177AB0" xml:space="preserve">+3</text>
+    <text x="320" y="692" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#177AB0" text-anchor="middle" xml:space="preserve">=</text>
+    <text x="344" y="692" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">8</text>
+    <line x1="463" y1="684" x2="537" y2="684" stroke="#177AB0" stroke-width="1.6" marker-end="url(#arrow-blue)" />
+    <text x="664.1640625" y="692" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">x</text>
+    <text x="700" y="692" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#177AB0" text-anchor="middle" xml:space="preserve">=</text>
+    <text x="724" y="692" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">8 </text>
+    <rect x="745.0859375" y="674" width="37.484375" height="29" rx="4" fill="#EFF7FC" stroke="#177AB0" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="749.0859375" y="692" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#177AB0" xml:space="preserve">−3</text>
+    <text x="236.3203125" y="741" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">x </text>
+    <rect x="256.515625" y="723" width="37.484375" height="29" rx="4" fill="#EFF7FC" stroke="#177AB0" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="260.515625" y="741" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#177AB0" xml:space="preserve">−2</text>
+    <text x="320" y="741" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#177AB0" text-anchor="middle" xml:space="preserve">=</text>
+    <text x="344" y="741" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">6</text>
+    <line x1="463" y1="733" x2="537" y2="733" stroke="#177AB0" stroke-width="1.6" marker-end="url(#arrow-blue)" />
+    <text x="664.1640625" y="741" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">x</text>
+    <text x="700" y="741" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#177AB0" text-anchor="middle" xml:space="preserve">=</text>
+    <text x="724" y="741" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">6 </text>
+    <rect x="745.0859375" y="723" width="37.484375" height="29" rx="4" fill="#EFF7FC" stroke="#177AB0" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="749.0859375" y="741" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#177AB0" xml:space="preserve">+2</text>
+  </g>
+  <g id="swap-sides" inkscape:groupmode="layer" inkscape:label="4. Обмен частей">
+    <rect x="55" y="780" width="890" height="157" rx="11" fill="#F5F8FA" stroke="#C7D7E1" stroke-width="1.5" />
+    <text x="80" y="815" font-family="DejaVu Sans, sans-serif" font-size="26" font-weight="700" fill="#1D2F40" xml:space="preserve">4. Обмен частей</text>
+    <text x="80" y="847" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#1D2F40" xml:space="preserve">Меняем части местами целиком. Знаки внутри сохраняются.</text>
+    <rect x="249.2734375" y="870" width="30.7265625" height="42" rx="7" fill="#FFFFFF" stroke="#177AB0" stroke-width="1.5" stroke-dasharray="5 4" />
+    <rect x="310" y="870" width="72.0390625" height="42" rx="7" fill="#FFFFFF" stroke="#177AB0" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="258.2734375" y="900" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">8</text>
+    <text x="295" y="900" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#177AB0" text-anchor="middle" xml:space="preserve">=</text>
+    <text x="319" y="900" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">x + 3</text>
+    <rect x="637.9609375" y="870" width="72.0390625" height="42" rx="7" fill="#FFFFFF" stroke="#177AB0" stroke-width="1.5" stroke-dasharray="5 4" />
+    <rect x="740" y="870" width="30.7265625" height="42" rx="7" fill="#FFFFFF" stroke="#177AB0" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="646.9609375" y="900" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">x + 3</text>
+    <text x="725" y="900" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#177AB0" text-anchor="middle" xml:space="preserve">=</text>
+    <text x="749" y="900" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">8</text>
+    <line x1="465" y1="890" x2="535" y2="890" stroke="#177AB0" stroke-width="1.6" marker-end="url(#arrow-blue)" />
+  </g>
+  <g id="parentheses" inkscape:groupmode="layer" inkscape:label="5. Раскрытие скобок">
+    <rect x="55" y="951" width="890" height="243" rx="11" fill="#F5F8FA" stroke="#C7D7E1" stroke-width="1.5" />
+    <text x="80" y="986" font-family="DejaVu Sans, sans-serif" font-size="26" font-weight="700" fill="#1D2F40" xml:space="preserve">5. Раскрытие скобок</text>
+    <text x="80" y="1018" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#1D2F40" xml:space="preserve">Перед скобками плюс — знаки внутри сохраняем.</text>
+    <text x="80" y="1046" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#1D2F40" xml:space="preserve">Перед скобками минус — каждый знак внутри меняем.</text>
+    <text x="205" y="1096" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">x </text>
+    <rect x="225.1953125" y="1078" width="24.7578125" height="29" rx="4" fill="#EFF7FC" stroke="#177AB0" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="229.1953125" y="1096" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#177AB0" xml:space="preserve">+</text>
+    <text x="251.953125" y="1096" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve"> (4 </text>
+    <rect x="287.203125" y="1078" width="24.7578125" height="29" rx="4" fill="#EFF7FC" stroke="#177AB0" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="291.203125" y="1096" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#177AB0" xml:space="preserve">−</text>
+    <text x="313.9609375" y="1096" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve"> 2)</text>
+    <line x1="465" y1="1088" x2="535" y2="1088" stroke="#177AB0" stroke-width="1.6" marker-end="url(#arrow-blue)" />
+    <text x="585" y="1096" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">x </text>
+    <rect x="605.1953125" y="1078" width="24.7578125" height="29" rx="4" fill="#EFF7FC" stroke="#177AB0" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="609.1953125" y="1096" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#177AB0" xml:space="preserve">+</text>
+    <text x="631.953125" y="1096" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve"> 4 </text>
+    <rect x="659.3984375" y="1078" width="24.7578125" height="29" rx="4" fill="#EFF7FC" stroke="#177AB0" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="663.3984375" y="1096" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#177AB0" xml:space="preserve">−</text>
+    <text x="686.15625" y="1096" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve"> 2</text>
+    <text x="205" y="1158" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">x − (</text>
+    <rect x="256.1171875" y="1140" width="24.7578125" height="29" rx="4" fill="#EFF7FC" stroke="#177AB0" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="260.1171875" y="1158" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#177AB0" xml:space="preserve">+</text>
+    <text x="282.875" y="1158" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">4 </text>
+    <rect x="303.9609375" y="1140" width="24.7578125" height="29" rx="4" fill="#EFF7FC" stroke="#177AB0" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="307.9609375" y="1158" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#177AB0" xml:space="preserve">−</text>
+    <text x="330.71875" y="1158" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve"> 2)</text>
+    <line x1="465" y1="1150" x2="535" y2="1150" stroke="#177AB0" stroke-width="1.6" marker-end="url(#arrow-blue)" />
+    <text x="585" y="1158" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">x </text>
+    <rect x="605.1953125" y="1140" width="24.7578125" height="29" rx="4" fill="#EFF7FC" stroke="#177AB0" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="609.1953125" y="1158" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#177AB0" xml:space="preserve">−</text>
+    <text x="631.953125" y="1158" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve"> 4 </text>
+    <rect x="659.3984375" y="1140" width="24.7578125" height="29" rx="4" fill="#EFF7FC" stroke="#177AB0" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="663.3984375" y="1158" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#177AB0" xml:space="preserve">+</text>
+    <text x="686.15625" y="1158" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve"> 2</text>
+  </g>
+  <g id="check" inkscape:groupmode="layer" inkscape:label="6. Проверка">
+    <rect x="55" y="1208" width="890" height="152" rx="11" fill="#F5F8FA" stroke="#C7D7E1" stroke-width="1.5" />
+    <text x="80" y="1243" font-family="DejaVu Sans, sans-serif" font-size="26" font-weight="700" fill="#1D2F40" xml:space="preserve">6. Проверка</text>
+    <text x="80" y="1275" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#1D2F40" xml:space="preserve">Подставляем ответ вместо x в исходное уравнение.</text>
+    <text x="80" y="1303" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="700" fill="#1D2F40" xml:space="preserve">Значения обеих частей должны совпасть.</text>
+    <rect x="92" y="1325" width="19.8359375" height="29" rx="4" fill="#EFF7FC" stroke="#177AB0" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="96" y="1343" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#177AB0" xml:space="preserve">x</text>
+    <text x="113.8359375" y="1343" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve"> + 3 = 8;  x = 5</text>
+    <line x1="450" y1="1335" x2="510" y2="1335" stroke="#177AB0" stroke-width="1.6" marker-end="url(#arrow-blue)" />
+    <rect x="552" y="1325" width="20.7265625" height="29" rx="4" fill="#EFF7FC" stroke="#177AB0" stroke-width="1.5" stroke-dasharray="5 4" />
+    <text x="556" y="1343" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#177AB0" xml:space="preserve">5</text>
+    <text x="574.7265625" y="1343" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve"> + 3 = 8</text>
+    <line x1="765" y1="1335" x2="805" y2="1335" stroke="#177AB0" stroke-width="1.6" marker-end="url(#arrow-blue)" />
+    <text x="837" y="1343" font-family="DejaVu Sans, sans-serif" font-size="20" font-weight="400" fill="#1D2F40" xml:space="preserve">8 = 8</text>
+  </g>
+</svg>
